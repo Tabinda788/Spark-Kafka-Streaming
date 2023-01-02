@@ -1,0 +1,313 @@
+{
+    "UCXz_WJweVvjOIQhP728LaCg": {
+        "channel_statistics": {
+            "viewCount": "270",
+            "subscriberCount": "10",
+            "hiddenSubscriberCount": false,
+            "videoCount": "7"
+        },
+        "video_data": {
+            "Q6dK-jZCofw": {
+                "publishedAt": "2020-12-19T18:17:08Z",
+                "channelId": "UCXz_WJweVvjOIQhP728LaCg",
+                "title": "Stock price prediction using analysis of historic stock prices.|Grip internship|ThesparksFoundation",
+                "description": "Objective: Create a hybrid model for stock price/performance prediction\nusing numerical analysis of historical stock prices.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q6dK-jZCofw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q6dK-jZCofw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q6dK-jZCofw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Q6dK-jZCofw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Q6dK-jZCofw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tabinda Bhat",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Stock price prediction using analysis of historic stock prices.|Grip internship|ThesparksFoundation",
+                    "description": "Objective: Create a hybrid model for stock price/performance prediction\nusing numerical analysis of historical stock prices."
+                },
+                "viewCount": "25",
+                "likeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT1M29S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "AwsKpRVrRJ4": {
+                "publishedAt": "2020-12-16T14:06:00Z",
+                "channelId": "UCXz_WJweVvjOIQhP728LaCg",
+                "title": "Decision Tree classifier and visualize it graphically.|Grip internship|Thesparksfoundation",
+                "description": "Create the Decision Tree classifier and visualize it graphically.\nThe purpose is if we feed any new data to this classifier, it would be able to\npredict the right class accordingly.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AwsKpRVrRJ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AwsKpRVrRJ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AwsKpRVrRJ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AwsKpRVrRJ4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AwsKpRVrRJ4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tabinda Bhat",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Decision Tree classifier and visualize it graphically.|Grip internship|Thesparksfoundation",
+                    "description": "Create the Decision Tree classifier and visualize it graphically.\nThe purpose is if we feed any new data to this classifier, it would be able to\npredict the right class accordingly."
+                },
+                "viewCount": "16",
+                "likeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT1M10S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "6dzgzGcCplI": {
+                "publishedAt": "2020-12-16T13:56:07Z",
+                "channelId": "UCXz_WJweVvjOIQhP728LaCg",
+                "title": "Exploratory Data Analysis on dataset Indian Premier League|Grip Internship|Thesparksfoundation",
+                "description": "Perform \u2018Exploratory Data Analysis\u2019 on dataset \u2018Indian Premier League\u2019\nAs a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.\nSuggest teams or players a company should endorse for its products.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6dzgzGcCplI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6dzgzGcCplI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6dzgzGcCplI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6dzgzGcCplI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6dzgzGcCplI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tabinda Bhat",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Exploratory Data Analysis on dataset Indian Premier League|Grip Internship|Thesparksfoundation",
+                    "description": "Perform \u2018Exploratory Data Analysis\u2019 on dataset \u2018Indian Premier League\u2019\nAs a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.\nSuggest teams or players a company should endorse for its products."
+                },
+                "viewCount": "14",
+                "likeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT2M28S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "NU-woFTdzGY": {
+                "publishedAt": "2020-12-14T14:24:07Z",
+                "channelId": "UCXz_WJweVvjOIQhP728LaCg",
+                "title": "Perform Exploratory Data Analysis\u2019 on dataset Global Terrorism\u2019|Grip internship|ThesparksFoundation",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NU-woFTdzGY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NU-woFTdzGY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NU-woFTdzGY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NU-woFTdzGY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NU-woFTdzGY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tabinda Bhat",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Perform Exploratory Data Analysis\u2019 on dataset Global Terrorism\u2019|Grip internship|ThesparksFoundation",
+                    "description": ""
+                },
+                "viewCount": "27",
+                "likeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT2M50S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "sKX5XFynYik": {
+                "publishedAt": "2020-12-12T17:08:53Z",
+                "channelId": "UCXz_WJweVvjOIQhP728LaCg",
+                "title": "Perform Exploratory Data Analysis on dataset SampleSuperstore|Grip Internship|TheSparksFoundation",
+                "description": "Perform \u2018Exploratory Data Analysis\u2019 on dataset \u2018SampleSuperstore\u2019\nAs a business manager, try to find out the weak areas where you can work to\nmake more profit.\nWhat all business problems you can derive by exploring the data?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sKX5XFynYik/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sKX5XFynYik/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sKX5XFynYik/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sKX5XFynYik/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Tabinda Bhat",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Perform Exploratory Data Analysis on dataset SampleSuperstore|Grip Internship|TheSparksFoundation",
+                    "description": "Perform \u2018Exploratory Data Analysis\u2019 on dataset \u2018SampleSuperstore\u2019\nAs a business manager, try to find out the weak areas where you can work to\nmake more profit.\nWhat all business problems you can derive by exploring the data?"
+                },
+                "viewCount": "38",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT4M24S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "AkH6Gina4tE": {
+                "publishedAt": "2020-12-12T17:04:57Z",
+                "channelId": "UCXz_WJweVvjOIQhP728LaCg",
+                "title": "From the given \u2018Iris\u2019 dataset, predict the optimum number of clusters and represent it visually.",
+                "description": "From the given \u2018Iris\u2019 dataset, predict the optimum number of clusters and\nrepresent it visually.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AkH6Gina4tE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AkH6Gina4tE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AkH6Gina4tE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AkH6Gina4tE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AkH6Gina4tE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tabinda Bhat",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "From the given \u2018Iris\u2019 dataset, predict the optimum number of clusters and represent it visually.",
+                    "description": "From the given \u2018Iris\u2019 dataset, predict the optimum number of clusters and\nrepresent it visually."
+                },
+                "viewCount": "36",
+                "likeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT2M46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            }
+        }
+    }
+}
